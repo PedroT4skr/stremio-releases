@@ -8,6 +8,13 @@
       "max_devices": 1,
       "allowed_ips": [],
       "created_at": "2026-08-26T19:40:25.857Z"
+    },
+    "YPZL-9R45-QPBZ-EVYF-V9Z2-J9S2": {
+      "name": "pedro",
+      "active": true,
+      "max_devices": 1,
+      "allowed_ips": [],
+      "created_at": "2026-08-26T19:47:22.169Z"
     }
   },
   "global_revoked_hwids": [],
