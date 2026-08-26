@@ -7,21 +7,7 @@
   "telemetry_webhook_url": "https://discord.com/api/webhooks/1542003238608306207/3oUJJbQje0XRIoV1wkhLkRiquSnZdD1gObmzFtp-7xV2-IjiKjIx1DdE9JGggSRIiSCZ",
   "requires_full_installer": false,
   "beta_access_enabled": true,
-  "beta_keys": {
-    "STRE-MIO0-MAST-ER99-8877-6655": {
-      "name": "Pedro (Admin)",
-      "active": true,
-      "max_devices": 10,
-      "created_at": "2026-08-26T00:00:00.000Z"
-    },
-    "NXGC-2RQC-NBQE-QQ73-PHQD-CHTW": {
-      "name": "teste",
-      "active": true,
-      "max_devices": 1,
-      "allowed_ips": [],
-      "created_at": "2026-08-26T17:57:01.367Z"
-    }
-  },
+  "beta_keys": {},
   "global_revoked_hwids": [],
   "announcement": ""
 }
