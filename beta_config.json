@@ -12,21 +12,6 @@
       "name": "Pedro (Admin)",
       "active": true,
       "max_devices": 10
-    },
-    "BETA-AMIGO-01": {
-      "name": "Lucas",
-      "active": true,
-      "max_devices": 2
-    },
-    "BETA-AMIGO-02": {
-      "name": "Matheus",
-      "active": true,
-      "max_devices": 1
-    },
-    "BETA-AMIGO-03": {
-      "name": "Gabriel",
-      "active": true,
-      "max_devices": 1
     }
   },
   "global_revoked_hwids": [],
