@@ -15,6 +15,13 @@
       "max_devices": 1,
       "allowed_ips": [],
       "created_at": "2026-08-26T19:47:22.169Z"
+    },
+    "XWAM-7RZK-UK5Q-PYYC-QFWC-49UN": {
+      "name": "kalyl",
+      "active": true,
+      "max_devices": 1,
+      "allowed_ips": [],
+      "created_at": "2026-08-26T20:26:49.623Z"
     }
   },
   "global_revoked_hwids": [],
