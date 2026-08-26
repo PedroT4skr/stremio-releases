@@ -1,7 +1,15 @@
 {
   "version": "1.0.1",
   "beta_access_enabled": true,
-  "beta_keys": {},
+  "beta_keys": {
+    "CLU5-SRV3-VZBS-ZNES-H76R-HGYG": {
+      "name": "pedro",
+      "active": true,
+      "max_devices": 1,
+      "allowed_ips": [],
+      "created_at": "2026-08-26T19:00:24.563Z"
+    }
+  },
   "global_revoked_hwids": [],
   "announcement": ""
 }
