@@ -13,12 +13,12 @@
       "active": true,
       "max_devices": 10
     },
-    "BETA-KALYL-C90A": {
-      "name": "kalyl",
+    "BETA-PEDRO-6400": {
+      "name": "pedro",
       "active": true,
       "max_devices": 1,
       "allowed_ips": [],
-      "created_at": "2026-08-26T03:17:52.571Z"
+      "created_at": "2026-08-26T03:21:42.449Z"
     }
   },
   "global_revoked_hwids": [],
