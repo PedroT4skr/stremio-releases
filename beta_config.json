@@ -1,7 +1,7 @@
 {
   "version": "1.0.1",
   "min_supported_version": "1.0.0",
-  "release_notes": "Sistema de Atualização OTA Delta, Controle de Acesso Beta e correções na página Discover.",
+  "release_notes": "Lançamento inicial Beta com atualizações OTA e controle de acesso",
   "delta_url": "https://github.com/PedroT4skr/stremio-releases/releases/download/v1.0.1/dist.zip",
   "full_installer_url": "https://github.com/PedroT4skr/stremio-releases/releases/download/v1.0.1/Stremio-Setup.exe",
   "requires_full_installer": false,
