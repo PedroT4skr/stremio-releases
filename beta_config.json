@@ -1,11 +1,5 @@
 {
   "version": "1.0.1",
-  "min_supported_version": "1.0.0",
-  "release_notes": "Lançamento inicial Beta com arquitetura Enterprise, telemetria Discord e atualizações OTA",
-  "delta_url": "https://github.com/PedroT4skr/Stremio-Custom-Desktop/releases/download/v1.0.1/dist.zip",
-  "full_installer_url": "https://github.com/PedroT4skr/Stremio-Custom-Desktop/releases/download/v1.0.1/Stremio-Setup.exe",
-  "telemetry_webhook_url": "https://discord.com/api/webhooks/1542003238608306207/3oUJJbQje0XRIoV1wkhLkRiquSnZdD1gObmzFtp-7xV2-IjiKjIx1DdE9JGggSRIiSCZ",
-  "requires_full_installer": false,
   "beta_access_enabled": true,
   "beta_keys": {},
   "global_revoked_hwids": [],
