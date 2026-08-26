@@ -12,6 +12,13 @@
       "name": "Pedro (Admin)",
       "active": true,
       "max_devices": 10
+    },
+    "BETA-KALYL-C90A": {
+      "name": "kalyl",
+      "active": true,
+      "max_devices": 1,
+      "allowed_ips": [],
+      "created_at": "2026-08-26T03:17:52.571Z"
     }
   },
   "global_revoked_hwids": [],
