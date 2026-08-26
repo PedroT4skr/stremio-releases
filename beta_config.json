@@ -1,7 +1,15 @@
 {
   "version": "1.0.1",
   "beta_access_enabled": true,
-  "beta_keys": {},
+  "beta_keys": {
+    "6FC4-FX25-DGS4-LHNT-QXDX-QFT5": {
+      "name": "pedro",
+      "active": true,
+      "max_devices": 1,
+      "allowed_ips": [],
+      "created_at": "2026-08-26T19:38:21.084Z"
+    }
+  },
   "global_revoked_hwids": [],
   "announcement": ""
 }
