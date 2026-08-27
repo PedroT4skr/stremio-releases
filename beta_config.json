@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "beta_access_enabled": true,
   "beta_keys": {
     "6FC4-FX25-DGS4-LHNT-QXDX-QFT5": {
@@ -33,7 +33,7 @@
   },
   "global_revoked_hwids": [],
   "announcement": "teste",
-  "release_notes": "Sincronização global e dinâmica do número de versão em todas as telas (Setup Wizard, Settings, Instalador, Telemetria e Gatekeeper).",
-  "delta_url": "https://github.com/PedroT4skr/stremio-releases/releases/download/v1.1.1/dist.zip",
-  "full_installer_url": "https://github.com/PedroT4skr/stremio-releases/releases/download/v1.1.1/Stremio-Setup.exe"
+  "release_notes": "Redesign minimalista da notificação de update e sincronização de bundle.",
+  "delta_url": "https://github.com/PedroT4skr/stremio-releases/releases/download/v1.1.2/dist.zip",
+  "full_installer_url": "https://github.com/PedroT4skr/stremio-releases/releases/download/v1.1.2/Stremio-Setup.exe"
 }
