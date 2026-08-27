@@ -29,6 +29,13 @@
       "max_devices": 1,
       "allowed_ips": [],
       "created_at": "2026-08-26T20:31:08.844Z"
+    },
+    "JU2U-LE99-9VMH-MEVJ-J9K6-8RSC": {
+      "name": "cauã",
+      "active": true,
+      "max_devices": 1,
+      "allowed_ips": [],
+      "created_at": "2026-08-27T21:24:24.423Z"
     }
   },
   "global_revoked_hwids": [],
