@@ -1,5 +1,5 @@
 {
-  "version": "1.1.2",
+  "version": "1.1.3",
   "beta_access_enabled": true,
   "beta_keys": {
     "6FC4-FX25-DGS4-LHNT-QXDX-QFT5": {
@@ -33,7 +33,7 @@
   },
   "global_revoked_hwids": [],
   "announcement": "teste",
-  "release_notes": "Redesign minimalista da notificação de update e sincronização de bundle.",
-  "delta_url": "https://github.com/PedroT4skr/stremio-releases/releases/download/v1.1.2/dist.zip",
-  "full_installer_url": "https://github.com/PedroT4skr/stremio-releases/releases/download/v1.1.2/Stremio-Setup.exe"
+  "release_notes": "Otimização massiva de sincronização da Watchlist e Biblioteca Stremio: processamento em lote paralelo reduzindo o tempo de 3 minutos para menos de 2 segundos.",
+  "delta_url": "https://github.com/PedroT4skr/stremio-releases/releases/download/v1.1.3/dist.zip",
+  "full_installer_url": "https://github.com/PedroT4skr/stremio-releases/releases/download/v1.1.3/Stremio-Setup.exe"
 }
