@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "beta_access_enabled": true,
   "beta_keys": {
     "6FC4-FX25-DGS4-LHNT-QXDX-QFT5": {
@@ -32,5 +32,8 @@
     }
   },
   "global_revoked_hwids": [],
-  "announcement": "teste"
+  "announcement": "teste",
+  "release_notes": "Watchlist integrada, sinopses oficiais via Cinemeta, correções no próximo episódio e áudio PT-BR, e desduplicação no Continuar Assistindo.",
+  "delta_url": "https://github.com/PedroT4skr/stremio-releases/releases/download/v1.0.2/dist.zip",
+  "full_installer_url": "https://github.com/PedroT4skr/stremio-releases/releases/download/v1.0.2/Stremio-Setup.exe"
 }
