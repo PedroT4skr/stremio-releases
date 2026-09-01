@@ -1,5 +1,5 @@
 {
-  "version": "1.1.4",
+  "version": "1.1.6",
   "beta_access_enabled": true,
   "beta_keys": {
     "6FC4-FX25-DGS4-LHNT-QXDX-QFT5": {
@@ -40,7 +40,7 @@
   },
   "global_revoked_hwids": [],
   "announcement": "teste",
-  "release_notes": "Correções críticas de orquestração de streams, menus de fontes alternativas, deduplicação da watchlist e estabilidade",
-  "delta_url": "https://github.com/PedroT4skr/stremio-releases/releases/download/v1.1.4/dist.zip",
-  "full_installer_url": "https://github.com/PedroT4skr/stremio-releases/releases/download/v1.1.4/Stremio-Setup.exe"
+  "release_notes": "Redesign minimalista dos popups do player, barra de progresso no proximo episodio, priorizacao total de fontes em cache e toast de notificacoes aprimorado.",
+  "delta_url": "https://github.com/PedroT4skr/stremio-releases/releases/download/v1.1.6/dist.zip",
+  "full_installer_url": "https://github.com/PedroT4skr/stremio-releases/releases/download/v1.1.6/Stremio-Setup.exe"
 }
