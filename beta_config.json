@@ -1,5 +1,5 @@
 {
-  "version": "1.1.7",
+  "version": "1.1.8",
   "beta_access_enabled": true,
   "beta_keys": {
     "6FC4-FX25-DGS4-LHNT-QXDX-QFT5": {
@@ -40,7 +40,7 @@
   },
   "global_revoked_hwids": [],
   "announcement": "teste",
-  "release_notes": "Seletor de temporadas original com scroll, continuidade perfeita no Continuar Assistindo, retomada sem demux EOF, eliminacao de tela preta e estabilidade do menu de contexto.",
-  "delta_url": "https://github.com/PedroT4skr/stremio-releases/releases/download/v1.1.7/dist.zip",
-  "full_installer_url": "https://github.com/PedroT4skr/stremio-releases/releases/download/v1.1.7/Stremio-Setup.exe"
+  "release_notes": "Melhorias de desempenho, correções no player e novas recomendações.",
+  "delta_url": "https://github.com/PedroT4skr/stremio-releases/releases/download/v1.1.8/dist.zip",
+  "full_installer_url": "https://github.com/PedroT4skr/stremio-releases/releases/download/v1.1.8/Stremio-Setup.exe"
 }
